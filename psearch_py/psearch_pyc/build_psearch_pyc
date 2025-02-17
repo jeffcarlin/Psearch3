@@ -1,5 +1,6 @@
 #!/bin/bash -x
 module="psearch_pyc"
+# module="psearch_pyc.cpython-313-darwin"
 # Purpose: Build command for this module
 #  Author: Kenneth J. Mighell
 # Version: 0.3.2  2018MAY06

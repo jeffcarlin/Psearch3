@@ -3,6 +3,7 @@ mkdir .old
 mv *.so .old
 cd psearch_pyc
 ./build_psearch_pyc
-cp psearch_pyc.so ../
+# cp psearch_pyc.so ../
+cp psearch_pyc.cpython-313-darwin.so ../
 cd ../
 #EOF
